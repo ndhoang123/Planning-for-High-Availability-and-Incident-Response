@@ -60,8 +60,8 @@ Clone the appropriate git repo with the starter code. There will be 2 folders. Z
     - `curl -sSL https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash`
 
 - terraform
-    - `wget https://releases.hashicorp.com/terraform/1.0.7/terraform_1.0.7_linux_amd64.zip`
-    - `unzip terraform_1.0.7_linux_amd64.zip`
+    - `wget https://releases.hashicorp.com/terraform/1.7.5/terraform_1.7.5_linux_amd64.zip`
+    - `unzip terraform_1.7.5_linux_amd64.zip`
     - `mkdir ~/bin`
     - `mv terraform ~/bin`
     - `export TF_PLUGIN_CACHE_DIR="/tmp"`
